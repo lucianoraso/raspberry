@@ -1,3 +1,3 @@
 # Raspberry
 
-[Pinout](/doc/pinout.md)
+- **[Pinout](/doc/pinout.md)**
